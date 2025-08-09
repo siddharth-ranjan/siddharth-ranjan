@@ -9,3 +9,4 @@ I have done Masters in Computer Applications at Vellore Institute of Technology 
 - 💬 Ask me about Java, Spring Boot, or anything related to Generative AI!
 - 📫 You can reach me at: [siddharthranjan0909@gmail.com](mailto:siddharthranjan0909@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/siddharth-ranjan09/).
+- 💻 Know more about me at: [Portfolio](https://www.siddharthranjan.me).
